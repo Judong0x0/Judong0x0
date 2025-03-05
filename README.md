@@ -14,7 +14,7 @@
 
 ---
 
-[![Terminal](https://capsule-render.vercel.app/api?type=terminal&section=header&text=Security%20Operations&color=00FF00&fontSize=18&animation=blink)](https://github.com/yourname)
+[![Terminal](https://capsule-render.vercel.app/api?type=terminal&section=header&text=Security%20Operations&color=00FF00&fontSize=18&animation=blink)](https://github.com/Judong0x0)
 
 
 [![Skill Radar](https://skillicons.dev/icons?i=android,ios,aws,py,java,raspberrypi,linux,git)](https://skillicons.dev)
