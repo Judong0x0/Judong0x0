@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/AWS-Cloud%20Security-FF9900?logo=amazonaws)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Judong0x0)
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Judong0x0)
-
-[![Skill Radar](https://skillicons.dev/icons?i=android,ios,aws,py,java,raspberrypi,linux,git)](https://skillicons.dev)
