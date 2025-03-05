@@ -14,4 +14,6 @@
 
 ---
 
-[![Skill Radar](https://skillicons.dev/icons?i=android,ios,aws,py,java,kotlin,rust)](https://skillicons.dev)
+<img src="https://github-profile-3d-contrib.vercel.app/api/v1?username=YOUR_NAME&color=00ff00&theme=gruvbox" width="100%">
+
+[![Skill Radar](https://skillicons.dev/icons?i=android,ios,aws,py,java,raspberrypi,linux,git)](https://skillicons.dev)
