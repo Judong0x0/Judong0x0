@@ -14,6 +14,7 @@
 
 ---
 
-<img src="https://github-profile-3d-contrib.vercel.app/api/v1?username=YOUR_NAME&color=00ff00&theme=gruvbox" width="100%">
+[![Terminal](https://capsule-render.vercel.app/api?type=terminal&section=header&text=Security%20Operations&color=00FF00&fontSize=18&animation=blink)](https://github.com/yourname)
+
 
 [![Skill Radar](https://skillicons.dev/icons?i=android,ios,aws,py,java,raspberrypi,linux,git)](https://skillicons.dev)
